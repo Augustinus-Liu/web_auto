@@ -1,0 +1,12 @@
+清理数据
+正在定位元素信息：定位方式->xpath,value值->/html/body/div[2]/div[6]/div[1]/dl[2]/button[1]
+正在定位元素信息：定位方式->xpath,value值->//*[@id='project_name']
+正在定位元素信息：定位方式->xpath,value值->//*[@id='responsible_name']
+正在定位元素信息：定位方式->xpath,value值->//*[@id='test_user']
+正在定位元素信息：定位方式->xpath,value值->//*[@id='dev_user']
+正在定位元素信息：定位方式->xpath,value值->//*[@id='publish_app']
+正在定位元素信息：定位方式->xpath,value值->//*[@id='simple_desc']
+正在定位元素信息：定位方式->xpath,value值->//*[@id='simple_desc']
+正在定位元素信息：定位方式->xpath,value值->//*[@id='send']
+正在定位元素信息：定位方式->xpath,value值->//*[@id='project_list']/table/tbody/tr[1]/td[3]/a
+获取text失败，返回''

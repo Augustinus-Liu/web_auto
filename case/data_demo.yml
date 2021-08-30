@@ -1,0 +1,13 @@
+
+
+test_login:
+- ["liuyang","123456",True]
+- ["qazwsxed","123456",False]
+
+
+
+
+test_add_project:
+- ["test1",True,"first"]
+- ["test2",True,"sec"]
+- ["test3",True,"thd"]
